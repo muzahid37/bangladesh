@@ -56,3 +56,45 @@ a.nav-link {
     content: "COX'S BAZAR ";
   }
 }
+.info,
+.expore_plases,
+.photo_galary,
+.footer,
+.comment {
+  /* margin-top: 4rem; */
+  padding: 50px 0px;
+  background: linear-gradient(-16deg, wheat 36%, white 88%);
+}
+.info .info_items {
+  border-radius: 7px;
+  padding: 20px;
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+}
+.section_header {
+  margin-top: 4rem;
+}
+.section_header span {
+  padding-bottom: 7px;
+  border-bottom: 4px solid;
+  border-radius: 4px;
+}
+.expore_plases {
+}
+.expore_plase {
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+  padding: 25px;
+  border-radius: 10px;
+}
+.expore_plase p {
+  text-align: justify;
+}
+.expore_plase_right {
+}
+
+.photoCollam {
+  margin-top: 3rem;
+  padding: 10px;
+}
+.footer {
+  margin-bottom: 0px !important;
+}
